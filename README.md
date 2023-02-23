@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/_khanfarhn_" target="blank"><img src="https://img.shields.io/twitter/follow/_khanfarhn_?logo=twitter&style=for-the-badge" alt="_khanfarhn_" /></a> </p>
 
+<p align="center"><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Cat Gif" /> </p>
+
 - 🔭 I’m currently working on **Productive App**
 
 - 🌱 I’m currently learning **Flutter and Firebase**
@@ -30,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanfarhn14&show_icons=true&locale=en" alt="khanfarhn14" /></p>
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
