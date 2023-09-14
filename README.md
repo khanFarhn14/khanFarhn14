@@ -9,14 +9,6 @@ Explore my portfolio [khanFarhan02](https://khan-farhan02.web.app/)
 
 <p align="center"><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Cat Gif" /> </p>
 
-- 🔭 I’m currently working on **Productive App**
-
-- 🌱 I’m currently learning **Flutter and Firebase**
-
-- 👯 I’m looking to collaborate on **UI Designing & Flutter Development**
-
-- 🤝 I’m looking for help with **An app that contains all the necessary UX/UI guides to get you started in this field**
-
 - 📫 How to reach me **thecubeshade21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
