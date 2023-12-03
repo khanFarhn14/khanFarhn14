@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋（*＾-＾*）👋, I'm Khan Farhan</h1>
-<h3 align="center">Designing UIs and working with Flutter is something that I enjoy</h3>
 
 Explore my portfolio [khanFarhan02](https://khan-farhan02.web.app/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfarhn14&label=Profile%20views&color=0e75b6&style=flat" alt="khanfarhn14" /> </p>
