@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋（*＾-＾*）👋, I'm Khan Farhan</h1>
+<h1 align="center">Hi 👋（*＾-＾*）👋, I'm Farhan</h1>
 
 <p align="center"><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Cat Gif" /> </p>
 
